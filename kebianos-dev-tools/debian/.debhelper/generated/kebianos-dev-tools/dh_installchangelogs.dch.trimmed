@@ -1,0 +1,13 @@
+kebianos-dev-tools (1.0.0) stable; urgency=low
+
+    * Se añadieron los paquetes "clang-19-doc,  wasi-libc,  libkf6kio-dev,  clang,  clang-tidy,  clazy,  cmake,  cppcheck,  heaptrack,  kdevelop-l10n,  meson,  ninja-build,  ncurses-doc,  llvm-19-doc,  python-pygments-doc,  ttf-bitstream-vera, libkf6plasma-dev" para complementar el meta paquete
+    * Se define que el sufijo de verciones (0.0.0) equivale a (stable, cambio menor, beta)
+
+ -- Daniel <danny.mg302@gmail.com>  Thu, 17 Nov 2026 07:32:00 -0500
+
+kebianos-dev-tools (0.0.1) stable; urgency=low
+
+    * Primer Build
+    * Se añadio las dependencias "glade, maint-guide-es, kdevelop"
+
+ -- Daniel <danny.mg302@gmail.com>  Thu, 17 Nov 2026 07:20:00 -0500

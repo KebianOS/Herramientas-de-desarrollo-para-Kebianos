@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Thu, 17 Nov 2026 07:32:00 -0500
+Source: kebianos-dev-tools
+Binary: kebianos-dev-tools
+Architecture: all
+Version: 1.0.0
+Distribution: stable
+Urgency: low
+Maintainer: Daniel <danny.mg302@gmail.com.com>
+Changed-By: Daniel <danny.mg302@gmail.com>
+Description:
+ kebianos-dev-tools - Paquete de herramientas de desarrollo para KebianOS
+Changes:
+ kebianos-dev-tools (1.0.0) stable; urgency=low
+ .
+     * Se añadieron los paquetes "clang-19-doc,  wasi-libc,  libkf6kio-dev,  clang,  clang-tidy,  clazy,  cmake,  cppcheck,  heaptrack,  kdevelop-l10n,  meson,  ninja-build,  ncurses-doc,  llvm-19-doc,  python-pygments-doc,  ttf-bitstream-vera, libkf6plasma-dev" para complementar el meta paquete
+     * Se define que el sufijo de verciones (0.0.0) equivale a (stable, cambio menor, beta)
+Checksums-Sha1:
+ 12e6fb38e47a3b789810da8416bcb38e06862b70 1860 kebianos-dev-tools_1.0.0_all.deb
+ b6ce788253d225895f13035546fda59d2bb447da 5461 kebianos-dev-tools_1.0.0_amd64.buildinfo
+Checksums-Sha256:
+ afa259cb4d320109ce946b09dfa2461fd467784ac5ee75dda0dc8788939e041b 1860 kebianos-dev-tools_1.0.0_all.deb
+ c92420e7756aeb646f1068f50de62fffbe7a03fa9edd5c3e499a238c6b2b6679 5461 kebianos-dev-tools_1.0.0_amd64.buildinfo
+Files:
+ d8f86c4e5eefdbe058d02f1185cb6bee 1860 admin optional kebianos-dev-tools_1.0.0_all.deb
+ 00f7e1d840cba3f051d53152d7d64ee2 5461 admin optional kebianos-dev-tools_1.0.0_amd64.buildinfo
