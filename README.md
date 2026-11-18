@@ -1,1 +1,3 @@
 # Herramientas-de-desarrollo-para-Kebianos
+
+## Las Herramientas de desarrollo de KebianOS es un meta paquete que incluye `glade, maint-guide-es, kdevelop, clang-19-doc,  wasi-libc,  libkf6kio-dev,  clang,  clang-tidy,  clazy,  cmake,  cppcheck,  heaptrack,  kdevelop-l10n,  meson,  ninja-build,  ncurses-doc,  llvm-19-doc,  python-pygments-doc,  ttf-bitstream-vera, cmake-doc,  cmake-format,  elpa-cmake-mode,  cppcheck-gui,  libevdev-doc,  fonts-mathjax-extras,  fonts-stix,  libjs-mathjax-doc,  python-setuptools-doc, python-jinja2-doc` que se usan en el desarrollo de algunas Herramientas de KebianOS
