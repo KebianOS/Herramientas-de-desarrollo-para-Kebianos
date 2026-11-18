@@ -11,7 +11,7 @@ fi
 
 if [ "$1" = "-u" ]; then
     rm *.buildinfo
-    rm .changes
+    rm *.changes
     rm *.deb
     git add .
     git commit -m "Upload"
