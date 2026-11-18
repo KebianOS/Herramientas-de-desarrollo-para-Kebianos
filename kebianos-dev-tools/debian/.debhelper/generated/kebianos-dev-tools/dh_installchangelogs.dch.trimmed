@@ -1,3 +1,9 @@
+kebianos-dev-tools (1.2.0) stable; urgency=low
+
+    * Se añadieron los paquetes "cmake-doc  cmake-format  elpa-cmake-mode  cppcheck-gui  libevdev-doc  fonts-mathjax-extras  fonts-stix  libjs-mathjax-doc  python-setuptools-doc"
+
+ -- Daniel <danny.mg302@gmail.com>  Thu, 17 Nov 2026 07:50:00 -0500
+
 kebianos-dev-tools (1.1.0) stable; urgency=high
 
     * Se elimino el paquete "libkf6plasma-dev"
