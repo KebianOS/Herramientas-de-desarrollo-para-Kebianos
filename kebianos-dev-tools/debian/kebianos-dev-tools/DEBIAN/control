@@ -1,9 +1,9 @@
 Package: kebianos-dev-tools
-Version: 1.0.0
+Version: 1.1.0
 Architecture: all
 Maintainer: Daniel <danny.mg302@gmail.com.com>
 Installed-Size: 8
-Depends: glade, maint-guide-es, kdevelop, clang-19-doc, wasi-libc, libkf6kio-dev, clang, clang-tidy, clazy, cmake, cppcheck, heaptrack, kdevelop-l10n, meson, ninja-build, ncurses-doc, llvm-19-doc, python-pygments-doc, ttf-bitstream-vera, libkf6plasma-dev
+Depends: glade, maint-guide-es, kdevelop, clang-19-doc, wasi-libc, libkf6kio-dev, clang, clang-tidy, clazy, cmake, cppcheck, heaptrack, kdevelop-l10n, meson, ninja-build, ncurses-doc, llvm-19-doc, python-pygments-doc, ttf-bitstream-vera
 Section: admin
 Priority: optional
 Description: Paquete de herramientas de desarrollo para KebianOS
