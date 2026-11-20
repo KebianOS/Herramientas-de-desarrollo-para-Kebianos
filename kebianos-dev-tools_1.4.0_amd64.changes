@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 18 Nov 2026 17:44:03 -0500
+Source: kebianos-dev-tools
+Binary: kebianos-dev-tools
+Architecture: all
+Version: 1.4.0
+Distribution: stable
+Urgency: low
+Maintainer: Daniel <danny.mg302@gmail.com.com>
+Changed-By: Daniel <danny.mg302@gmail.com>
+Description:
+ kebianos-dev-tools - Paquete de herramientas de desarrollo para KebianOS
+Changes:
+ kebianos-dev-tools (1.4.0) stable; urgency=low
+ .
+     * Se cambio el formato de empaquetado para usar `dh_builddeb -- -Zzstd -z19 --threads-max=$(shell nproc)`
+Checksums-Sha1:
+ 4be6d8c399876c63730cda77662408129efd26d1 2034 kebianos-dev-tools_1.4.0_all.deb
+ c1b0eeda37a4b69819ba98617092b5fc825309e2 4965 kebianos-dev-tools_1.4.0_amd64.buildinfo
+Checksums-Sha256:
+ a3df8674f539cb9a47de7a42cfdde205a806b3bbe65581827875561aa7635fce 2034 kebianos-dev-tools_1.4.0_all.deb
+ 488988f0205706ca00bb70eb5d99595a837a4ccaf6d048c2590abff8043a308a 4965 kebianos-dev-tools_1.4.0_amd64.buildinfo
+Files:
+ 24a387dffcdeab65753f72cecd473690 2034 admin optional kebianos-dev-tools_1.4.0_all.deb
+ 835942e424d231acaffe6a5977496392 4965 admin optional kebianos-dev-tools_1.4.0_amd64.buildinfo

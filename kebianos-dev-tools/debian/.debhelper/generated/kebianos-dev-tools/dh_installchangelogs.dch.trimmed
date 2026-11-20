@@ -1,3 +1,10 @@
+kebianos-dev-tools (1.4.0) stable; urgency=low
+
+    * Se cambio el formato de empaquetado para usar `dh_builddeb -- -Zzstd -z19 --threads-max=$(shell nproc)`
+
+ -- Daniel <danny.mg302@gmail.com>  Wed, 18 Nov 2026 17:44:03 -0500
+
+
 kebianos-dev-tools (1.3.0) stable; urgency=low
 
     * Se añadio el paquete "python-jinja2-doc"

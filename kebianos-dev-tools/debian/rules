@@ -3,4 +3,4 @@
 	dh $@
 
 override_dh_builddeb:
-	dh_builddeb -- -Zxz -z9 -Sextreme
+	dh_builddeb -- -Zzstd -z19 --threads-max=$(shell nproc)
